@@ -71,3 +71,5 @@ while not(a.isdigit() and b.isdigit()):
 print("Zhayaby = ", (int(a) + int(b)))
 
 #4 лаб есептері шығарылды 2 есепті шығара алмадым
+
+print ("Hello!")
